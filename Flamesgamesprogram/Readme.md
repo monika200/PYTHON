@@ -1,8 +1,8 @@
-This is a [**Flames game**][http://flamesgame.appspot.com/algorithm] program.So for that we need to know about [**Flames game**][http://flamesgame.appspot.com/algorithm].
+This is a [**Flames game**](http://flamesgame.appspot.com/algorithm) program.So for that we need to know about [**Flames game**](http://flamesgame.appspot.com/algorithm).
  
-What is [**Flames game**][http://flamesgame.appspot.com/algorithm]?
+What is [**Flames game**](http://flamesgame.appspot.com/algorithm)?
 
-[**Flames game**][http://flamesgame.appspot.com/algorithm] is a fun game. Using this game we can find out the relationship between 2 people.
+[**Flames game**](http://flamesgame.appspot.com/algorithm) is a fun game. Using this game we can find out the relationship between 2 people.
 In FLAMES F stands for Friends L stands for Lovers A stands for Affectionate
 M stands for Marriage E stands for Enemies and S stands for Siblings.
 
