@@ -14,6 +14,6 @@ To play this game we need to do following things
 + Based on the count value find out the relationship.
     
 Result
-The letter whcih we get at the end of the process is the result.
+   The letter which we get at the end of the process is the result.
     
     
