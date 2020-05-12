@@ -3,8 +3,8 @@
  Here I have used a dictionary data type in Python for real-life work by making a birthday reminder app in Python.
  
 # Overview of Project:
-+ Users can add birthday data to the program and can search for particular data.
-+ Simple user interface with 3 prompts for searching, inserting data and exiting the program.
+  * Users can add birthday data to the program and can search for particular data.
+  * Simple user interface with 3 prompts for searching, inserting data and exiting the program.
 
 Logic:
 1. We will give choice to user for what operation they want to perform.
