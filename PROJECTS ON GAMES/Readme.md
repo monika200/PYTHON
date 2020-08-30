@@ -4,5 +4,5 @@ Games includes-
   + Flamegames Program.
   + Guess the number game.
   + Rock Paper and Scissors Game.
-  + [TIC TAC TOE](https://ourpastimes.com/origin-name-tic-tac-toe-4682851.html)
+  + [TIC TAC TOE](https://github.com/monika200/PYTHON-PROJECTS/tree/master/PROJECTS%20ON%20GAMES/TIC%20TAC%20TOE%20GAME)
 
