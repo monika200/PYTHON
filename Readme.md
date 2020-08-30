@@ -1,3 +1,3 @@
-**Various projects using Python.**
+**Projects using Python.**
 
 
