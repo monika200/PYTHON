@@ -1,5 +1,3 @@
-**Various projects on games using Python.**
+**Various projects using Python.**
 
-Includes -
- # Flamegames.
- # Tic tac toe.
+
