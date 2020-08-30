@@ -1,1 +1,1 @@
-This folder includes projects on games using Python.
+This folder includes projects on games using **Python.**
